@@ -144,6 +144,11 @@ and supports high scalability (large airspace and drone counts).
   * Advanced path planners (e.g., A\* in grid), dynamic cost layers (wind/weather), probabilistic occupancy for uncertainty.
   * REST API for integration with operational drone platforms (like FlytBase).
 
+<img width="536" height="395" alt="Image" src="https://github.com/user-attachments/assets/e0b2dea7-d328-4ecb-9add-f89774a35ef3" />
+<img width="776" height="310" alt="Image" src="https://github.com/user-attachments/assets/c7625644-49dc-478e-b2b2-13efe63e942b" />
+<img width="708" height="434" alt="Image" src="https://github.com/user-attachments/assets/1983221c-f7c8-44f5-a959-c4cab35fecf4" />
+
+
 ---
 
 ## **8. Limitations and Further Work**
@@ -155,15 +160,14 @@ and supports high scalability (large airspace and drone counts).
 ---
 
 ## **9. References**
-
+Research Paper- https://www.mdpi.com/2504-446X/9/1/10
 
 ---
 
 ## **10. Author**
 
-**\Aditi Dekhane**
+**Aditi Dekhane**
 For FlytBase Robotics Assignment 2025 – AI/Robotics Engineer Application
 
 ---
 
-**End of README**
