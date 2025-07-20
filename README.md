@@ -63,6 +63,10 @@ The grid cell acts as a “bucket”: if two (or more) drones are mapped to the 
   * For each waypoint of the primary drone, the system checks if another drone already occupies the same grid cell at the same time (excluding itself).
   * If so, it records the conflict (drone id, location, time).
 
+<img width="543" height="566" alt="Image" src="https://github.com/user-attachments/assets/83bf47a7-c0aa-4e98-8d8c-750de6f7a919" />
+<img width="564" height="509" alt="Image" src="https://github.com/user-attachments/assets/e7552e58-6a46-452e-b3dd-7652973b032a" />
+
+
 ### 3.2 Rerouting Logic (Explainable XAI)
 
 * If a conflict is found, the system attempts a **simple reroute**:
